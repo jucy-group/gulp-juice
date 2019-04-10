@@ -13,7 +13,6 @@
     "test": "mocha"
   },
   "dependencies": {
-    "gulp-util": "~2.2.14",
     "event-stream": "^4.0.1",
     "juice": "^5.0.1"
   },
